@@ -1,9 +1,9 @@
 # 独孤信多面印 · Dugu Xin Multi-faceted Seal 3D
 
-[![Live demo](https://img.shields.io/badge/live%20demo-open%20the%20seal-ab493d?style=for-the-badge)](https://summerching2012-cyber.github.io/-3D-/viewer.html)
-[![Landing](https://img.shields.io/badge/pages-landing-ccb58b?style=flat-square)](https://summerching2012-cyber.github.io/-3D-/)
-[![Stars](https://img.shields.io/github/stars/summerching2012-cyber/-3D-?style=flat-square&label=stars)](https://github.com/summerching2012-cyber/-3D-/stargazers)
-[![Release](https://img.shields.io/github/v/release/summerching2012-cyber/-3D-?style=flat-square&label=release)](https://github.com/summerching2012-cyber/-3D-/releases)
+[![Live demo](https://img.shields.io/badge/live%20demo-open%20the%20seal-ab493d?style=for-the-badge)](https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/viewer.html)
+[![Landing](https://img.shields.io/badge/pages-landing-ccb58b?style=flat-square)](https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/)
+[![Stars](https://img.shields.io/github/stars/summerching2012-cyber/dugu-xin-coal-jade-seal-3d?style=flat-square&label=stars)](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/stargazers)
+[![Release](https://img.shields.io/github/v/release/summerching2012-cyber/dugu-xin-coal-jade-seal-3d?style=flat-square&label=release)](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases)
 [![Faces](https://img.shields.io/badge/faces-26-ccb58b?style=flat-square)](#26-faces)
 [![Viewer](https://img.shields.io/badge/viewer-offline%20HTML-2f3436?style=flat-square)](#quick-start)
 [![Blender](https://img.shields.io/badge/Blender-5.2.2-e87d0d?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://summerching2012-cyber.github.io/-3D-/viewer.html"><b>▶ Live demo · 在线打开模型</b></a>
+  <a href="https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/viewer.html"><b>▶ Live demo · 在线打开模型</b></a>
   &nbsp;·&nbsp;
-  <a href="https://summerching2012-cyber.github.io/-3D-/">Landing page · 介绍页</a>
+  <a href="https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/">Landing page · 介绍页</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip">Download v3.0 ZIP</a>
+  <a href="https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases/download/v3.0/dugu-xin-seal-v3.0.zip">Download v3.0 ZIP</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/summerching2012-cyber/-3D-"><b>★ Star this repo</b></a>
+  <a href="https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d"><b>★ Star this repo</b></a>
 </p>
 
 V3 is a **museum-photo reference model** of the Dugu Xin multi-faceted seal (独孤信多面印): 26 faces, 14 intaglio faces, 47 characters. Seven faces that can be seen in the Shaanxi History Museum collection photograph are mapped from that photo. The other faces stay a neutral dark stone, with approximate carved letters where the V2 layout has an inscription. It is a model you can rotate. It is not a photogrammetric or high-precision scan.
@@ -56,7 +56,7 @@ V3 is a **museum-photo reference model** of the Dugu Xin multi-faceted seal (独
 
 **In the browser**
 
-1. Download [v3.0, `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip) (about 42 MB). A git [source ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip) contains the same files.
+1. Download [v3.0, `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases/download/v3.0/dugu-xin-seal-v3.0.zip) (about 42 MB). A git [source ZIP](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/archive/refs/heads/main.zip) contains the same files.
 2. Unzip it.
 3. Double-click `独孤信多面印_V3/打开模型.html` and open it with **Chrome or Edge**.
 4. Left-drag rotates, the wheel zooms, right-drag pans, double-click frames a face. The right-hand index visits every face. Left and right arrow keys move between faces. Home resets the camera.
@@ -287,7 +287,7 @@ Listed here as the project cites them. Titles follow the viewer and the V3 notes
 
 If you enjoyed turning the seal, star the repository. It helps the next person who is looking for a 26-faced seal they can actually hold in a browser.
 
-[★ Star 独孤信多面印 · Dugu Xin Multi-faceted Seal 3D](https://github.com/summerching2012-cyber/-3D-)
+[★ Star 独孤信多面印 · Dugu Xin Multi-faceted Seal 3D](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d)
 
 ---
 
@@ -315,7 +315,7 @@ If you enjoyed turning the seal, star the repository. It helps the next person w
 
 **浏览器**
 
-1. 下载 [v3.0 压缩包 `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip)（约 42 MB）。Git 的[源码 ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip) 是同一批文件。
+1. 下载 [v3.0 压缩包 `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases/download/v3.0/dugu-xin-seal-v3.0.zip)（约 42 MB）。Git 的[源码 ZIP](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/archive/refs/heads/main.zip) 是同一批文件。
 2. 解压。
 3. 双击 `独孤信多面印_V3/打开模型.html`，用 **Chrome 或 Edge** 打开。
 4. 左键拖拽旋转，滚轮缩放，右键平移，双击某个印面可对准它。右侧索引可逐面查看。左右方向键切换印面，Home 复位。
@@ -521,4 +521,4 @@ V2 在 2026-10-01 根据六张复制品对比照片、馆藏照片和公开印�
 
 如果转这枚印的时候觉得有意思，给仓库加一颗星。下一个人要找一枚能在浏览器里拿在手里转的二十六面印时，会更容易遇见它。
 
-[★ 给「独孤信多面印 · Dugu Xin Multi-faceted Seal 3D」加星](https://github.com/summerching2012-cyber/-3D-)
+[★ 给「独孤信多面印 · Dugu Xin Multi-faceted Seal 3D」加星](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d)

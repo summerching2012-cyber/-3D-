@@ -2,10 +2,10 @@
 
 [English](README.md) · 简体中文
 
-[![在线演示](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%BC%94%E7%A4%BA-%E6%89%93%E5%BC%80%E6%A8%A1%E5%9E%8B-ab493d?style=for-the-badge)](https://summerching2012-cyber.github.io/-3D-/viewer.html)
-[![介绍页](https://img.shields.io/badge/pages-%E4%BB%8B%E7%BB%8D%E9%A1%B5-ccb58b?style=flat-square)](https://summerching2012-cyber.github.io/-3D-/)
-[![Stars](https://img.shields.io/github/stars/summerching2012-cyber/-3D-?style=flat-square&label=stars)](https://github.com/summerching2012-cyber/-3D-/stargazers)
-[![Release](https://img.shields.io/github/v/release/summerching2012-cyber/-3D-?style=flat-square&label=release)](https://github.com/summerching2012-cyber/-3D-/releases)
+[![在线演示](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%BC%94%E7%A4%BA-%E6%89%93%E5%BC%80%E6%A8%A1%E5%9E%8B-ab493d?style=for-the-badge)](https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/viewer.html)
+[![介绍页](https://img.shields.io/badge/pages-%E4%BB%8B%E7%BB%8D%E9%A1%B5-ccb58b?style=flat-square)](https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/)
+[![Stars](https://img.shields.io/github/stars/summerching2012-cyber/dugu-xin-coal-jade-seal-3d?style=flat-square&label=stars)](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/stargazers)
+[![Release](https://img.shields.io/github/v/release/summerching2012-cyber/dugu-xin-coal-jade-seal-3d?style=flat-square&label=release)](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases)
 [![Faces](https://img.shields.io/badge/faces-26-ccb58b?style=flat-square)](#二十六个面)
 [![Viewer](https://img.shields.io/badge/viewer-offline%20HTML-2f3436?style=flat-square)](#快速开始)
 [![Blender](https://img.shields.io/badge/Blender-5.2.2-e87d0d?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
@@ -21,13 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://summerching2012-cyber.github.io/-3D-/viewer.html"><b>▶ 在线打开模型 · Live demo</b></a>
+  <a href="https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/viewer.html"><b>▶ 在线打开模型 · Live demo</b></a>
   &nbsp;·&nbsp;
-  <a href="https://summerching2012-cyber.github.io/-3D-/">介绍页 · Landing page</a>
+  <a href="https://summerching2012-cyber.github.io/dugu-xin-coal-jade-seal-3d/">介绍页 · Landing page</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip">下载 v3.0 ZIP</a>
+  <a href="https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases/download/v3.0/dugu-xin-seal-v3.0.zip">下载 v3.0 ZIP</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/summerching2012-cyber/-3D-"><b>★ 给仓库加一颗星</b></a>
+  <a href="https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d"><b>★ 给仓库加一颗星</b></a>
 </p>
 
 这是独孤信多面印的 **V3 文物表面参照模型**：26 个面，14 个阴文印面，47 个字。陕西历史博物馆官网藏品照片里能辨认的 7 个面，按共享棱角贴上了这张照片。其余面用中性黑褐石色；V2 布局里有印文的面保留近似凹刻。它可以旋转着看。它不是全周摄影测量，也不是高精度文物扫描。
@@ -52,7 +52,7 @@
 
 ## 快速开始
 
-1. 下载 [v3.0 压缩包 `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip)（约 42 MB）。Git 的[源码 ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip) 是同一批文件。
+1. 下载 [v3.0 压缩包 `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/releases/download/v3.0/dugu-xin-seal-v3.0.zip)（约 42 MB）。Git 的[源码 ZIP](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d/archive/refs/heads/main.zip) 是同一批文件。
 2. 解压。
 3. 双击 `独孤信多面印_V3/打开模型.html`，用 **Chrome 或 Edge** 打开。
 4. 左键拖拽旋转，滚轮缩放，右键平移，双击印面对准该面。左右方向键切换，Home 复位。
@@ -217,4 +217,4 @@ python package_viewer.py
 
 转过这枚印，如果还想让下一个人也找到它，就给仓库加一颗星。
 
-[★ 独孤信多面印 · Dugu Xin Multi-faceted Seal 3D](https://github.com/summerching2012-cyber/-3D-)
+[★ 独孤信多面印 · Dugu Xin Multi-faceted Seal 3D](https://github.com/summerching2012-cyber/dugu-xin-coal-jade-seal-3d)
