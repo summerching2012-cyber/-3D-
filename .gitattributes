@@ -4,7 +4,8 @@
 *.glb binary
 *.blend binary
 
-# Generated single-file viewer and esbuild bundle. Keep them, but do not
-# let them dominate language stats or pull requests.
+# Keep the delivered project byte-for-byte. Several check files record
+# SHA-256 of these paths, and the HTML viewer was saved with CRLF.
+独孤信多面印_V3/** -text
 独孤信多面印_V3/打开模型.html linguist-generated=true -diff
 独孤信多面印_V3/viewer.bundle.js linguist-generated=true -diff

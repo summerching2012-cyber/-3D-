@@ -23,7 +23,7 @@
   &nbsp;·&nbsp;
   <a href="viewer.html">Open the model</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip">Download ZIP</a>
+  <a href="https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip">Download v3.0 ZIP</a>
 </p>
 
 V3 is a **museum-photo reference model** of the Dugu Xin multi-faceted seal (独孤信多面印): 26 faces, 14 intaglio faces, 47 characters. Seven faces that can be seen in the Shaanxi History Museum collection photograph are mapped from that photo. The other faces stay a neutral dark stone, with approximate carved letters where the V2 layout has an inscription. It is a model you can rotate. It is not a photogrammetric or high-precision scan.
@@ -54,7 +54,7 @@ V3 is a **museum-photo reference model** of the Dugu Xin multi-faceted seal (独
 
 **In the browser**
 
-1. Download the [repository ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip), or the [latest Release](https://github.com/summerching2012-cyber/-3D-/releases) if one is published.
+1. Download [v3.0, `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip) (about 42 MB). A git [source ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip) contains the same files.
 2. Unzip it.
 3. Double-click `独孤信多面印_V3/打开模型.html` and open it with **Chrome or Edge**.
 4. Left-drag rotates, the wheel zooms, right-drag pans, double-click frames a face. The right-hand index visits every face. Left and right arrow keys move between faces. Home resets the camera.
@@ -313,7 +313,7 @@ If you enjoyed turning the seal, star the repository. It helps the next person w
 
 **浏览器**
 
-1. 下载[仓库 ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip)，若已发布版本，也可以用 [Release](https://github.com/summerching2012-cyber/-3D-/releases)。
+1. 下载 [v3.0 压缩包 `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip)（约 42 MB）。Git 的[源码 ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip) 是同一批文件。
 2. 解压。
 3. 双击 `独孤信多面印_V3/打开模型.html`，用 **Chrome 或 Edge** 打开。
 4. 左键拖拽旋转，滚轮缩放，右键平移，双击某个印面可对准它。右侧索引可逐面查看。左右方向键切换印面，Home 复位。

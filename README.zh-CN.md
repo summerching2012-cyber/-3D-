@@ -23,7 +23,7 @@
   &nbsp;·&nbsp;
   <a href="viewer.html">打开模型</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip">下载 ZIP</a>
+  <a href="https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip">下载 v3.0 ZIP</a>
 </p>
 
 这是独孤信多面印的 **V3 文物表面参照模型**：26 个面，14 个阴文印面，47 个字。陕西历史博物馆官网藏品照片里能辨认的 7 个面，按共享棱角贴上了这张照片。其余面用中性黑褐石色；V2 布局里有印文的面保留近似凹刻。它可以旋转着看。它不是全周摄影测量，也不是高精度文物扫描。
@@ -50,7 +50,7 @@
 
 ## 快速开始
 
-1. 下载[仓库 ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip)。如果发布了版本，用 [Release](https://github.com/summerching2012-cyber/-3D-/releases) 也行。
+1. 下载 [v3.0 压缩包 `dugu-xin-seal-v3.0.zip`](https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip)（约 42 MB）。Git 的[源码 ZIP](https://github.com/summerching2012-cyber/-3D-/archive/refs/heads/main.zip) 是同一批文件。
 2. 解压。
 3. 双击 `独孤信多面印_V3/打开模型.html`，用 **Chrome 或 Edge** 打开。
 4. 左键拖拽旋转，滚轮缩放，右键平移，双击印面对准该面。左右方向键切换，Home 复位。
