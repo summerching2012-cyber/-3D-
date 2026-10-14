@@ -2,6 +2,8 @@
 
 [English](README.md) · 简体中文
 
+[![在线演示](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%BC%94%E7%A4%BA-%E6%89%93%E5%BC%80%E6%A8%A1%E5%9E%8B-ab493d?style=for-the-badge)](https://summerching2012-cyber.github.io/-3D-/viewer.html)
+[![介绍页](https://img.shields.io/badge/pages-%E4%BB%8B%E7%BB%8D%E9%A1%B5-ccb58b?style=flat-square)](https://summerching2012-cyber.github.io/-3D-/)
 [![Stars](https://img.shields.io/github/stars/summerching2012-cyber/-3D-?style=flat-square&label=stars)](https://github.com/summerching2012-cyber/-3D-/stargazers)
 [![Release](https://img.shields.io/github/v/release/summerching2012-cyber/-3D-?style=flat-square&label=release)](https://github.com/summerching2012-cyber/-3D-/releases)
 [![Faces](https://img.shields.io/badge/faces-26-ccb58b?style=flat-square)](#二十六个面)
@@ -19,11 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/summerching2012-cyber/-3D-"><b>★ 觉得有意思就加一颗星</b></a>
+  <a href="https://summerching2012-cyber.github.io/-3D-/viewer.html"><b>▶ 在线打开模型 · Live demo</b></a>
   &nbsp;·&nbsp;
-  <a href="viewer.html">打开模型</a>
+  <a href="https://summerching2012-cyber.github.io/-3D-/">介绍页 · Landing page</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip">下载 v3.0 ZIP</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/summerching2012-cyber/-3D-"><b>★ 给仓库加一颗星</b></a>
 </p>
 
 这是独孤信多面印的 **V3 文物表面参照模型**：26 个面，14 个阴文印面，47 个字。陕西历史博物馆官网藏品照片里能辨认的 7 个面，按共享棱角贴上了这张照片。其余面用中性黑褐石色；V2 布局里有印文的面保留近似凹刻。它可以旋转着看。它不是全周摄影测量，也不是高精度文物扫描。

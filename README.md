@@ -1,5 +1,7 @@
 # 独孤信多面印 · Dugu Xin Multi-faceted Seal 3D
 
+[![Live demo](https://img.shields.io/badge/live%20demo-open%20the%20seal-ab493d?style=for-the-badge)](https://summerching2012-cyber.github.io/-3D-/viewer.html)
+[![Landing](https://img.shields.io/badge/pages-landing-ccb58b?style=flat-square)](https://summerching2012-cyber.github.io/-3D-/)
 [![Stars](https://img.shields.io/github/stars/summerching2012-cyber/-3D-?style=flat-square&label=stars)](https://github.com/summerching2012-cyber/-3D-/stargazers)
 [![Release](https://img.shields.io/github/v/release/summerching2012-cyber/-3D-?style=flat-square&label=release)](https://github.com/summerching2012-cyber/-3D-/releases)
 [![Faces](https://img.shields.io/badge/faces-26-ccb58b?style=flat-square)](#26-faces)
@@ -19,11 +21,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/summerching2012-cyber/-3D-"><b>★ Star this repo if you want more people to find it</b></a>
+  <a href="https://summerching2012-cyber.github.io/-3D-/viewer.html"><b>▶ Live demo · 在线打开模型</b></a>
   &nbsp;·&nbsp;
-  <a href="viewer.html">Open the model</a>
+  <a href="https://summerching2012-cyber.github.io/-3D-/">Landing page · 介绍页</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/summerching2012-cyber/-3D-/releases/download/v3.0/dugu-xin-seal-v3.0.zip">Download v3.0 ZIP</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/summerching2012-cyber/-3D-"><b>★ Star this repo</b></a>
 </p>
 
 V3 is a **museum-photo reference model** of the Dugu Xin multi-faceted seal (独孤信多面印): 26 faces, 14 intaglio faces, 47 characters. Seven faces that can be seen in the Shaanxi History Museum collection photograph are mapped from that photo. The other faces stay a neutral dark stone, with approximate carved letters where the V2 layout has an inscription. It is a model you can rotate. It is not a photogrammetric or high-precision scan.
