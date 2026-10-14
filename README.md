@@ -28,8 +28,6 @@
 
 V3 is a **museum-photo reference model** of the Dugu Xin multi-faceted seal (独孤信多面印): 26 faces, 14 intaglio faces, 47 characters. Seven faces that can be seen in the Shaanxi History Museum collection photograph are mapped from that photo. The other faces stay a neutral dark stone, with approximate carved letters where the V2 layout has an inscription. It is a model you can rotate. It is not a photogrammetric or high-precision scan.
 
-<!-- LIVE_DEMO -->
-
 ---
 
 ## English

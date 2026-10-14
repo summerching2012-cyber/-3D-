@@ -30,8 +30,6 @@
 
 英文说明在 [README.md](README.md)。原始交付说明仍在 `独孤信多面印_V3/README_V3.md` 与 `使用说明.md`。
 
-<!-- LIVE_DEMO -->
-
 ## 能做什么
 
 - 在 Chrome 或 Edge 里旋转、缩放、平移。`打开模型.html` 约 35 MB，Three.js 0.180.0 已打包在页面里。
