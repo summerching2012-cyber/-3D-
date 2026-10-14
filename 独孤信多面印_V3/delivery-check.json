@@ -1,0 +1,142 @@
+{
+  "version": "V3",
+  "v2_unchanged": {
+    "打开模型.html": true,
+    "独孤信多面印.blend": true,
+    "独孤信多面印.glb": true,
+    "preview.png": true
+  },
+  "source_count": 13,
+  "sources_unchanged": true,
+  "face_layout_identical_to_v2": true,
+  "photo_faces": [
+    1,
+    7,
+    8,
+    10,
+    12,
+    14,
+    18
+  ],
+  "model_closed": true,
+  "viewer_pass": true,
+  "formal_memory": "not_synced_index_unavailable",
+  "outputs": {
+    "打开模型.html": {
+      "sha256": "82e8eab323a1461342900735cb1a6628bdd52088d64cd66a40770c4e2db47223",
+      "bytes": 35537886
+    },
+    "独孤信多面印.blend": {
+      "sha256": "cce4db9a287ae9f69bf5080d3403ea4fd719c524fc34ea9e080d3b558e653e7c",
+      "bytes": 1183042
+    },
+    "独孤信多面印.glb": {
+      "sha256": "a5d7450062ac5c3add7962102ac7e3168146ed7790cf77f4df4eb56ea0962812",
+      "bytes": 2812016
+    },
+    "几何对照.glb": {
+      "sha256": "0d75bbbd21e2ec311b4ef2a367a6332a8b7e9f2f0e2e4e7990fd1dc018c480df",
+      "bytes": 20355296
+    },
+    "README_V3.md": {
+      "sha256": "90a65379d413bdf80fabb783a8a424822244389750272b544b1c89f39e4a4184",
+      "bytes": 3878
+    },
+    "使用说明.md": {
+      "sha256": "90a65379d413bdf80fabb783a8a424822244389750272b544b1c89f39e4a4184",
+      "bytes": 3878
+    },
+    "V2修改对照.md": {
+      "sha256": "e00089e60772ea3f929b5823ceba08f63dc0912cc8747c69f96d67644537eb29",
+      "bytes": 2228
+    },
+    "geometry.json": {
+      "sha256": "569b067789ae89bb39608e3769c447be863be64794480bfeb8cefff57ca8feae",
+      "bytes": 24785
+    },
+    "photo-map.json": {
+      "sha256": "d655d382ec2bc0edef45e52b9c230b7d63cce9bb2e9a90a36a840188d832aa73",
+      "bytes": 750
+    },
+    "source-manifest.json": {
+      "sha256": "8ef8b3465ac901e9e464cd5a2b84e1a46de57b415c69b1ec31f671039911c2b3",
+      "bytes": 3602
+    },
+    "model-check.json": {
+      "sha256": "58e9449f3b966306542f21ffbe8ed4a88407c5209ffb3547906d6ab47249b5d5",
+      "bytes": 1023
+    },
+    "layout-check.json": {
+      "sha256": "353b4c4d9f267d12582e522be96e994e9da4fa68b8b0948585a8066c0d0a3b54",
+      "bytes": 1699
+    },
+    "viewer-check.json": {
+      "sha256": "8e9888cb44be79011a5f226aca64b1b844d5dfec5a443d4ce10d390c41bb2161",
+      "bytes": 6947
+    },
+    "preview.png": {
+      "sha256": "f0d882cc39be85c6352af41f9a1d7c8a1c724e48d7f4e977e168d4d873d8bbe1",
+      "bytes": 576080
+    },
+    "viewer-aged.png": {
+      "sha256": "0fb203e0babe9f1c491560441567a0ba50f5e81a46dac48e8a2b8decf3795d62",
+      "bytes": 492444
+    },
+    "viewer-clean.png": {
+      "sha256": "9cc60b2c82667700508273f03e9673f6764ce751f35a3683d5e3f23837d0b44f",
+      "bytes": 450090
+    },
+    "build_model.py": {
+      "sha256": "4cdbdad60b5765119d1e2b7fe6ac4b21b01b0ff72128a813bfc4ab659d91812b",
+      "bytes": 8278
+    },
+    "viewer.js": {
+      "sha256": "b16273b75f2568c52430e562daf41a871f2586cd1ce2b29082db6362a6afe11f",
+      "bytes": 10912
+    },
+    "template.html": {
+      "sha256": "37f885e42d4a0d6e1ee6eaa6e0e3d682b365b73498e725fa98c6b57483da0590",
+      "bytes": 13801
+    },
+    "package_viewer.py": {
+      "sha256": "d0cdc23a96fb917fe2ac62d254dce413f836f5b757dd77e474a73fce0461e791",
+      "bytes": 2404
+    },
+    "check_layout.py": {
+      "sha256": "d78f5cdd1a06566125ace3f6e6838e4ecfca5fe0ea0a57da2d90f09e3031ed75",
+      "bytes": 1846
+    },
+    "make_v3.py": {
+      "sha256": "1fbe16b2211348c8a2d84980cbd9d1f49e794a04b2651a37408465473fab4187",
+      "bytes": 3022
+    },
+    "update_viewer.py": {
+      "sha256": "4c7270b335b643f210ca4dc252362c220d0204723cc9a8e5390aa924cd6fd14b",
+      "bytes": 4988
+    },
+    "finalize.py": {
+      "sha256": "8d21449e4e068d37e4d1d371b1a7d9779cbefd75d6e6bea00d54847f11f7369f",
+      "bytes": 2650
+    },
+    "viewer.bundle.js": {
+      "sha256": "dc6847f8e7c6daa7e5192783371556e802249900ee39198336c5906954fdef66",
+      "bytes": 601773
+    },
+    "package.json": {
+      "sha256": "7224e6f4ddd260424cc948cf5d97f149f53f0d9b7a76258b33039de47a8e502b",
+      "bytes": 79
+    },
+    "package-lock.json": {
+      "sha256": "3a278d9394e389a1c628e1d36f4201ba5c5417038e7ed66f63d6d1c31c3221ab",
+      "bytes": 14376
+    },
+    "vendor/THREE-LICENSE.txt": {
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+      "bytes": 1081
+    },
+    "research/museum-collection.png": {
+      "sha256": "196ce7914e75a7d9e66d50738612c26eb143c0eacd4dc9fda7ea08e7d8a412b4",
+      "bytes": 150039
+    }
+  }
+}

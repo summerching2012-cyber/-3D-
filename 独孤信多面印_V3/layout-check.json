@@ -1,0 +1,101 @@
+{
+  "pass": true,
+  "photo_adjacency_checks": [
+    {
+      "photo": 1,
+      "face": 1,
+      "expected": {
+        "left": 10,
+        "right": 9,
+        "up": 8,
+        "down": 2
+      },
+      "actual": {
+        "down": 2,
+        "up": 8,
+        "right": 9,
+        "left": 10
+      },
+      "pass": true
+    },
+    {
+      "photo": 2,
+      "face": 2,
+      "expected": {
+        "up": 1,
+        "down": 3
+      },
+      "actual": {
+        "up": 1,
+        "down": 3,
+        "left": 21,
+        "right": 24
+      },
+      "pass": true
+    },
+    {
+      "photo": 3,
+      "face": 7,
+      "expected": {
+        "left": 12,
+        "right": 11,
+        "up": 6,
+        "down": 8
+      },
+      "actual": {
+        "up": 6,
+        "down": 8,
+        "right": 11,
+        "left": 12
+      },
+      "pass": true
+    },
+    {
+      "photo": 4,
+      "face": 13,
+      "expected": {
+        "left": 11,
+        "down": 9
+      },
+      "actual": {
+        "down": 9,
+        "left": 11,
+        "up": 20,
+        "right": 25
+      },
+      "pass": true
+    },
+    {
+      "photo": 5,
+      "face": 3,
+      "expected": {
+        "left": 2,
+        "right": 4
+      },
+      "actual": {
+        "left": 2,
+        "right": 4,
+        "up": 25,
+        "down": 26
+      },
+      "pass": true
+    },
+    {
+      "photo": 6,
+      "face": 10,
+      "expected": {
+        "left": 14,
+        "right": 1
+      },
+      "actual": {
+        "right": 1,
+        "left": 14,
+        "up": 18,
+        "down": 21
+      },
+      "pass": true
+    }
+  ],
+  "text_frames_checked": 14,
+  "characters": 47
+}

@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.png binary
+*.glb binary
+*.blend binary
+
+# Generated single-file viewer and esbuild bundle. Keep them, but do not
+# let them dominate language stats or pull requests.
+独孤信多面印_V3/打开模型.html linguist-generated=true -diff
+独孤信多面印_V3/viewer.bundle.js linguist-generated=true -diff

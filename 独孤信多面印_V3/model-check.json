@@ -1,0 +1,62 @@
+{
+  "photo_faces": [
+    1,
+    7,
+    8,
+    10,
+    12,
+    14,
+    18
+  ],
+  "blender": "5.2.2 LTS",
+  "vertices": 19559,
+  "polygons": 19453,
+  "nonmanifold_edges": 0,
+  "dimensions_m": [
+    0.04349999874830246,
+    0.04349999874830246,
+    0.044999998062849045
+  ],
+  "carvings": [
+    {
+      "face": 2,
+      "label": "大都督印",
+      "polygons": 3100
+    },
+    {
+      "face": 3,
+      "label": "刺史之印",
+      "polygons": 5225
+    },
+    {
+      "face": 4,
+      "label": "柱國之印",
+      "polygons": 7749
+    },
+    {
+      "face": 5,
+      "label": "臣信上疏",
+      "polygons": 10211
+    },
+    {
+      "face": 6,
+      "label": "臣信上章",
+      "polygons": 12436
+    },
+    {
+      "face": 9,
+      "label": "令",
+      "polygons": 12863
+    },
+    {
+      "face": 11,
+      "label": "信啓事",
+      "polygons": 15236
+    },
+    {
+      "face": 13,
+      "label": "獨孤信白書",
+      "polygons": 19453
+    }
+  ]
+}

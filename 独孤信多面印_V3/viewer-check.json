@@ -1,0 +1,287 @@
+{
+  "version": "V3",
+  "method": "CUA browser interaction",
+  "faces": [
+    {
+      "mode": "geometry",
+      "id": 1,
+      "title": "大司馬印"
+    },
+    {
+      "mode": "geometry",
+      "id": 2,
+      "title": "大都督印"
+    },
+    {
+      "mode": "geometry",
+      "id": 3,
+      "title": "刺史之印"
+    },
+    {
+      "mode": "geometry",
+      "id": 4,
+      "title": "柱國之印"
+    },
+    {
+      "mode": "geometry",
+      "id": 5,
+      "title": "臣信上疏"
+    },
+    {
+      "mode": "geometry",
+      "id": 6,
+      "title": "臣信上章"
+    },
+    {
+      "mode": "geometry",
+      "id": 7,
+      "title": "臣信上表"
+    },
+    {
+      "mode": "geometry",
+      "id": 8,
+      "title": "臣信啓事"
+    },
+    {
+      "mode": "geometry",
+      "id": 9,
+      "title": "令"
+    },
+    {
+      "mode": "geometry",
+      "id": 10,
+      "title": "密"
+    },
+    {
+      "mode": "geometry",
+      "id": 11,
+      "title": "信啓事"
+    },
+    {
+      "mode": "geometry",
+      "id": 12,
+      "title": "耶勅"
+    },
+    {
+      "mode": "geometry",
+      "id": 13,
+      "title": "獨孤信白書"
+    },
+    {
+      "mode": "geometry",
+      "id": 14,
+      "title": "信白牋"
+    },
+    {
+      "mode": "geometry",
+      "id": 15,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 16,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 17,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 18,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 19,
+      "title": "四边素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 20,
+      "title": "四边素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 21,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 22,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 23,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 24,
+      "title": "三角素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 25,
+      "title": "四边素面"
+    },
+    {
+      "mode": "geometry",
+      "id": 26,
+      "title": "四边素面"
+    },
+    {
+      "mode": "photo",
+      "id": 1,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 2,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 3,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 4,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 5,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 6,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 7,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 8,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 9,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 10,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 11,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 12,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 13,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 14,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 15,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 16,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 17,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 18,
+      "note": "馆藏照片表面：裂隙、红色残留及反光来自照片；贴合位置为近似。"
+    },
+    {
+      "mode": "photo",
+      "id": 19,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 20,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 21,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 22,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 23,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 24,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 25,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    },
+    {
+      "mode": "photo",
+      "id": 26,
+      "note": "此面缺少清楚的馆藏表面照片，保留中性石色；文字为几何近似，不补画损伤。"
+    }
+  ],
+  "photos": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "mode_switch_visual": true,
+  "drag_visual": true,
+  "zoom_visual": true,
+  "errors": [],
+  "mobile_no_overflow": true,
+  "pass": true
+}

@@ -1,0 +1,13 @@
+{
+  "source": "research/museum-collection.png",
+  "url": "https://www.sxhm.com/collections/detail/439.html",
+  "image_url": "https://www.sxhm.com/Uploads/Picture/2021/11/10/s618b9af2a3267.png",
+  "method": "Manual correspondence of shared facet corners; approximate photograph projection, not measured damage geometry",
+  "faces": [1,7,8,10,12,14,18],
+  "pixels": {
+    "0": [103,445], "1": [95,271], "2": [4,350], "3": [10,172],
+    "4": [290,489], "5": [264,289], "7": [201,113], "9": [111,43],
+    "12": [506,411], "13": [497,235], "15": [411,80], "17": [306,2]
+  },
+  "limits": "Visible faces only. Source lighting and reflections remain in image. Unseen faces have neutral material and approximate carved type. No random crack or chip added."
+}
